@@ -2,7 +2,7 @@
 box-sizing: border-box;
 margin: 0;
 padding: 0;
-font-family:Georgia, 'Times New Roman', Times, serif;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .header {
@@ -59,6 +59,12 @@ main{
     text-align: justify;
     justify-content: center;
 }
+.card--h4{
+    margin: 10px;
+    text-align: justify;
+    justify-content: center;
+}
+
 .card--img {
         width: 400px; /* Cambia el ancho */
         height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
@@ -88,8 +94,19 @@ main{
 button:hover{
     opacity: 0.8;
 }
+footer{
+    background-color:  rgba(135, 206, 250, 0.325);
+    color: white;
+} 
 
-@media screen and(min-width:600px){
-    
+.footer--h2{
+    text-align: center;
+    margin:10px;
 }
+
+.footer--©{
+    text-align: center;
+}
+
+@media screen and(min-width:600px){}
 
