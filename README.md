@@ -17,3 +17,4 @@ z-index: 1
 Target: blank
 Las imágenes deben tener nombre en minúscula y con guión para indetificarlas en las carpetas.
 
+Grid, flex, position y mediaqueries.
